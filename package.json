@@ -9,7 +9,7 @@
   "author": "W. Robertson",
   "license": "ISC",
   "dependencies": {
-    "follow-redirects": "^1.5.1",
+    "follow-redirects": "^1.14.7",
     "json5": "^1.0.1",
     "mysql": "^2.16.0",
     "selenium-webdriver": "^4.0.0-alpha.1",
